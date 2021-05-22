@@ -28,13 +28,19 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   # albo:
   $ PYTHONPATH=. FLASK_APP=hello_world flask run
+
+  #albo za pomoca pliku Makefile:
+  $ make run
   ```
+
 
 - Uruchamianie testów (see: http://doc.pytest.org/en/latest/capture.html):
 
   ```
   $ PYTHONPATH=. py.test
   $ PYTHONPATH=. py.test --verbose -s
+  #albo za pomoca pliku Makefile:
+  $ make test
   ```
 
 - Kontynuując pracę z projektem, aktywowanie hermetycznego środowiska dla aplikacji py:
@@ -47,7 +53,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
