@@ -1,5 +1,5 @@
 # Simple Flask App
-https://app.statuscake.com/button/index.php?Track=6003152&Days=1&Design=1
+[![Build status](https://app.statuscake.com/button/index.php?Track=6003152&Days=1&Design=1)](https://travis-ci.com/weronika2201/se_hello_printer_app)
 
 [![Build Status](https://travis-ci.com/weronika2201/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/weronika2201/se_hello_printer_app)
 
