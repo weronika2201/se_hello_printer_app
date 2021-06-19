@@ -61,6 +61,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
   ```
+[![Build Status](https://travis-ci.com/weronika2201/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/weronika2201/se_hello_printer_app)
+
   # miejsce na twoje notatki
   ```
 
