@@ -1,4 +1,7 @@
 # Simple Flask App
+https://app.statuscake.com/button/index.php?Track=6003152&Days=1&Design=1
+
+[![Build Status](https://travis-ci.com/weronika2201/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/weronika2201/se_hello_printer_app)
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
@@ -60,8 +63,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
 
-  ```
-[![Build Status](https://travis-ci.com/weronika2201/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/weronika2201/se_hello_printer_app)
+
 
   # miejsce na twoje notatki
   ```
@@ -103,3 +105,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 #   - Nazwa: dowolna
 #   - Contact Group: zdefiniowana w 3
 # monitoring, który wykryje, kiedy jesteśmy offline
+
+
+
+test_cov – wywłanie coverage z wypisaniem raportu na ekran
+test_xunit – generacja xunit i coverage
