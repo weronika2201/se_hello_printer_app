@@ -64,8 +64,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
 
-
-  # miejsce na twoje notatki
+ #miejsce na twoje notatki
   ```
 
 # Pomocnicze
@@ -98,13 +97,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   #Uptime monitoring statuscake.com
   1 Przejdź do statuscake.com
-# 2 Utwórz konto.
-# 3 Dodaj grupę kontaktową ze swoim email-em.
-# 4 Dodaj Uptime Monitoring test:
-#  - URL: url Twojej aplikacji
-#  - Nazwa: dowolna
-#  - Contact Group: zdefiniowana w 3
-# monitoring, który wykryje, kiedy jesteśmy offline
+  2 Utwórz konto.
+  3 Dodaj grupę kontaktową ze swoim email-em.
+  4 Dodaj Uptime Monitoring test:
+  - URL: url Twojej aplikacji
+  - Nazwa: dowolna
+  - Contact Group: zdefiniowana w 3
+  monitoring, który wykryje, kiedy jesteśmy offline
 
 
 
