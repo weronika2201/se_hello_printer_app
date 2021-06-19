@@ -97,16 +97,17 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
 
   #Uptime monitoring statuscake.com
-#  1. Przejdź do statuscake.com
-#  2. Utwórz konto.
-#  3. Dodaj grupę kontaktową ze swoim email-em.
-#  4. Dodaj Uptime Monitoring test:
-#   - URL: url Twojej aplikacji
-#   - Nazwa: dowolna
-#   - Contact Group: zdefiniowana w 3
+  1 Przejdź do statuscake.com
+# 2 Utwórz konto.
+# 3 Dodaj grupę kontaktową ze swoim email-em.
+# 4 Dodaj Uptime Monitoring test:
+#  - URL: url Twojej aplikacji
+#  - Nazwa: dowolna
+#  - Contact Group: zdefiniowana w 3
 # monitoring, który wykryje, kiedy jesteśmy offline
 
 
 
 test_cov – wywłanie coverage z wypisaniem raportu na ekran
+
 test_xunit – generacja xunit i coverage
