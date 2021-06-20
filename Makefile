@@ -31,7 +31,7 @@ docker_push: docker_build
 	docker push $(TAG); \
 	docker logout;
 
-test cov:
+test_cov:
 	PYTHONPATH=. py.test --verbose -s --cov=.
 
 test_xunit:
